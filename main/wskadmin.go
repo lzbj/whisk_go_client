@@ -41,4 +41,6 @@ func main() {
 		fmt.Println("not supported command, please choose from {user}, see help")
 		os.Exit(1)
 	}
+
+	fmt.Println("continue here")
 }
