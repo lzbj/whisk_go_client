@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;whiskCli&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/go_work/src/github.com" />
+      <root url="file://$USER_HOME$/go_work/src/golang.org" />
+      <root url="file://$USER_HOME$/go_work/src/gopkg.in" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$USER_HOME$/go_work/src/github.com/jessevdk/go-flags/.git" />
+      <root url="file://$USER_HOME$/go_work/src/golang.org/x/net/http2/testdata" />
+      <root url="file://$USER_HOME$/go_work/src/gopkg.in/docker/docker.v1/hack/make/.build-rpm" />
+      <root url="file://$USER_HOME$/go_work/src/github.com/docker/docker/pkg/tarsum/testdata" />
+      <root url="file://$USER_HOME$/go_work/src/github.com/opencontainers/runc/.git" />
+      <root url="file://$USER_HOME$/go_work/src/github.com/docker/docker/docs/reference/api/_static" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$USER_HOME$/go_work/src/gopkg.in/docker/docker.v1/pkg/archive/testdata" />
+      <root url="file://$USER_HOME$/go_work/src/github.com/opencontainers/runc/Godeps/_workspace" />
+      <root url="file://$USER_HOME$/go_work/src/github.com/lib/pq/.git" />
+      <root url="file://$USER_HOME$/go_work/src/golang.org/x/net/.git" />
+      <root url="file://$USER_HOME$/go_work/src/github.com/docker/docker/.git" />
+      <root url="file://$USER_HOME$/go_work/src/github.com/docker/docker/hack/make/.resources-windows" />
+      <root url="file://$USER_HOME$/go_work/src/golang.org/x/net/bpf/testdata" />
+      <root url="file://$USER_HOME$/go_work/src/github.com/docker/docker/hack/make/.build-deb" />
+      <root url="file://$USER_HOME$/go_work/src/github.com/docker/docker/hack/make/.build-rpm" />
+      <root url="file://$USER_HOME$/go_work/src/github.com/docker/docker/pkg/archive/testdata" />
+      <root url="file://$USER_HOME$/go_work/src/golang.org/x/net/html/testdata" />
+      <root url="file://$USER_HOME$/go_work/src/gopkg.in/docker/docker.v1/hack/make/.resources-windows" />
+      <root url="file://$USER_HOME$/go_work/src/gopkg.in/docker/docker.v1/docs/reference/api/_static" />
+      <root url="file://$USER_HOME$/go_work/src/gopkg.in/docker/docker.v1/.git" />
+      <root url="file://$USER_HOME$/go_work/src/gopkg.in/docker/docker.v1/hack/make/.build-deb" />
+      <root url="file://$USER_HOME$/go_work/src/golang.org/x/net/html/charset/testdata" />
+      <root url="file://$USER_HOME$/go_work/src/github.com/docker/docker/.github" />
+      <root url="file://$USER_HOME$/go_work/src/gopkg.in/docker/docker.v1/pkg/tarsum/testdata" />
+    </excluded>
+  </library>
+</component>
