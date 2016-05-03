@@ -11,3 +11,7 @@ func Map_equal(m1, m2 map[string]string) bool {
 	}
 	return true
 }
+
+function another() bool {
+	ruturn false
+}
